@@ -1,0 +1,41 @@
+p {
+    width: 75px;
+    height:25px;
+    border:2px solid black;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    padding: 3px;
+    position: relative;
+    from top:0px;
+    float :right;
+  }
+  h1 {
+    text-align: center;
+    font-weight: bold;
+
+  }
+  section{
+    clear:right;
+    padding: 8px;
+    font-family: Helvetica;
+
+  }
+  div {
+    border:3px solid black;
+    margin: 3px;
+    background-color:#C0C0C0;
+  }
+  
+  #p1{
+    background-color: yellow;
+  }
+  #p2{
+    background-color: red;
+  }
+  #p3{
+    background-color: pink;
+  }
+  
+  *{
+    box-sizing: border-box;
+  }
